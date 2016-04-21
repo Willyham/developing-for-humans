@@ -1,2 +1,2 @@
 # developing-for-humans
-Developing for Humans GitBook
+A guide for writing better code for the humans who read it.
