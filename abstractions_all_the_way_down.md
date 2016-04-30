@@ -1,2 +1,12 @@
-# A (Very) Brief History of Code
+# Abstractions all the way down
+
+It is the year 2068. Humanity has been decimated by a super-intelligent AI that only looks out for Number 1. Or possibly a nuclear war. Perhaps even some kind of big old asteroid. The details are not important - all you know is that you're in a stereotypically post-apocalyptic world without modern computing.
+
+Whilst out scavenging for food in the arid wasteland/frozen tundra, you stumble upon an inexplicably well preserved, small green object. It has lots of strange little beads on it, with lines connecting them all up. Sensing that this may be important, or could potentially be made into some kind of delicious guacamole, you decide to take the shiny object back to Old Man Kesuke - who not only makes the best ratburger in the Dark Zone, but is always telling you and the other kids about the wonders of The Beforetimes.
+
+From puzzling together his wizened and mostly incomprehensible adages - which he invariably delivers during your weekly karate lessons - you've come to understand that the world before The Bad Thing was a wondrous one full of all kinds of unthinkable technology. You could send a picture from one side of the sky to the other faster than the Division Secret Police could strip-search an oppressed citizen. Apparently, this was primary use-case for this was to send pictures of yourself on the toilet (a place where the early-ones did their business) to your friends, and sometimes to strangers.
+
+When you deliver your treasure to Old Man Kesuke, you see his eyes light up with excitement. In fact, you haven't seen him this jubilant since the Overlord declared double rations for all loyal subjects living in the districts around his palace in celebration of his successful ban on music.
+
+"This, my boy, this is what we used to call a... chip-widget" he ventured, unreassuringly. "No, no, a circuit-wossname. A Raspberry Pie!". Feeling like you might finally get a decent meal, you begin to relax. You've never seen anybody cook something by connecting it up to copper wires and feeding the Energy into it before, though. A small green dot appears on the side of the Pie. *This must be it starting to cook*, you think to yourself. As you reach for your trusty, rusty spork and get ready to dig in, you're interrupted by Kesuke's manic laughter. "It works!" he screams, "Put down that future-fork and come and learn about the wonders of the early-ones!".
 
