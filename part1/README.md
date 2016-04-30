@@ -1,4 +1,4 @@
-# Abstractions all the way down
+# Why Developing for Humans matters
 
 It is the year 2068. Humanity has been decimated by a super-intelligent AI that only looks out for Number 1. Or possibly a nuclear war. Perhaps even some kind of big old asteroid. The details are not important - all you know is that you're in a stereotypically post-apocalyptic world without modern computing.
 
@@ -10,3 +10,6 @@ When you deliver your treasure to Old Man Kesuke, you see his eyes light up with
 
 "This, my boy, this is what we used to call a... chip-widget" he ventured, unreassuringly. "No, no, a circuit-wossname. A Raspberry Pie!". Feeling like you might finally get a decent meal, you begin to relax. You've never seen anybody cook something by connecting it up to copper wires and feeding the Energy into it before, though. A small green dot appears on the side of the Pie. *This must be it starting to cook*, you think to yourself. As you reach for your trusty, rusty spork and get ready to dig in, you're interrupted by Kesuke's manic laughter. "It works!" he screams, "Put down that future-fork and come and learn about the wonders of the early-ones!".
 
+Suddenly, you snap back to the present time, quickly realising that this was all some sort of weird dream - or whatever mechanism you want to use to explain the fact this this style of prose is clearly unsustainable for the entirety of this book. You look down at the Raspberry Pi in your hands and think "What the hell does this have to do with writing code for humans?". 
+
+Well, I'm going to tell you. At some point. Promise.
